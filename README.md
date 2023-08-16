@@ -6,3 +6,9 @@ In this project I'm using https://hearthstonejson.com to fetch card data for the
 
 ---
 
+Check out the [EDA](eda.ipynb) for some more or less unreadable plots.
+
+## Ideas
+- Collect data from https://hsreplay.net
+- Create a HS Bot (within ToS?)
+- Create a deck generator
